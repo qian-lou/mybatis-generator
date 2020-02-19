@@ -40,8 +40,8 @@
          forceBigDecimals:
               true:使用BigDecimal对应DECIMAL和 NUMERIC数据类型
               false:
-                scale>0;length>18;使用BigDecimal;
-                scale=0;length[10,18];使用Long;
+                scale>0;length>18:使用BigDecimal;
+                scale=0;length[10,18]:使用Long;
                 scale=0;length[5,9]:使用Integer;
                 scale=0;length<5:使用Short;
         -->
