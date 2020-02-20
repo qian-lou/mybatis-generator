@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <map key="path_3" value="user"/>
+  <map key="package" value="com.qingcheng.user"/>
+  <map key="path_2" value="qingcheng"/>
+  <map key="dbpassword" value="123456"/>
+  <map key="author" value="\u5ed6\u5b97\u575a"/>
+  <map key="projectComment" value="\u9752\u6a59"/>
+  <map key="project" value="qingcheng"/>
+  <map key="dbuser" value="root"/>
+  <map key="path_1" value="com"/>
+  <map key="db" value="mybatis"/>
+  <map key="path_all" value="com/qingcheng/user"/>
+</root>

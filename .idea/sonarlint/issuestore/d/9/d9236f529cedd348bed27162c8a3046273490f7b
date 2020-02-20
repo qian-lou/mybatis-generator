@@ -1,0 +1,14 @@
+
+bsquid:S1192ß"JDefine a constant instead of duplicating this literal "nickname" 12 times.(œÃçù
+qsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÎ³Ù
+dsquid:S1192™"GDefine a constant instead of duplicating this literal "email" 12 times.(áÎ„µÿÿÿÿÿ
+isquid:S1192¥"LDefine a constant instead of duplicating this literal "createtime" 10 times.(­éÏùÿÿÿÿ
+gsquid:S1192"JDefine a constant instead of duplicating this literal "username" 12 times.(×œÚşÿÿÿÿ
+bsquid:S1192Ó"JDefine a constant instead of duplicating this literal "password" 12 times.(­â›Î
+dsquid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(ÔÁñÍøÿÿÿÿ
+osquid:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏßÉe
+dsquid:S00112º"FDefine and throw a dedicated exception instead of using a generic one.(õÜ—ºşÿÿÿÿ
+^squid:S00112Á"FDefine and throw a dedicated exception instead of using a generic one.(ìá¤
+
+Tsquid:S1155z">Use isEmpty() to check whether the collection is empty or not.(Á½¼s
+[squid:S1155¦">Use isEmpty() to check whether the collection is empty or not.(í´Õûüÿÿÿÿ

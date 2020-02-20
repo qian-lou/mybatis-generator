@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<db name="mybatis" driverName="com.mysql.jdbc.Driver" userName="root" passWord="123456" url="jdbc:mysql://127.0.0.1:3306/mybatis?characterEncoding=UTF8">
+  <property name="databaseTYPE">MYSQL</property>
+  <property name="dialect">org.hibernate.dialect.MySQLInnoDBDialect</property>
+  <property name="generator">&lt;![CDATA[&lt;generator class="native"&gt;&lt;/generator&gt;]]&gt;</property>
+  <property name="driverName">com.mysql.jdbc.Driver</property>
+  <property name="url">jdbc:mysql://127.0.0.1:3306/mybatis?characterEncoding=UTF8</property>
+  <table name="tbl_employee" name2="employee" comment="" key="id" key2="id" Key2="Id" keyType="Integer">
+    <column name="id" name2="id" type="Integer" dbtype="INT" comment="" key="PRI" decimal_digits="0" colums_size="10"/>
+    <column name="last_name" name2="lastName" type="String" dbtype="VARCHAR" comment="" key="" decimal_digits="0" colums_size="255"/>
+    <column name="gender" name2="gender" type="String" dbtype="CHAR" comment="" key="" decimal_digits="0" colums_size="1"/>
+    <column name="email" name2="email" type="String" dbtype="VARCHAR" comment="" key="" decimal_digits="0" colums_size="255"/>
+    <column name="age" name2="age" type="Integer" dbtype="INT" comment="" key="" decimal_digits="0" colums_size="10"/>
+  </table>
+</db>
